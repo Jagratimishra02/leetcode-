@@ -8,6 +8,7 @@ leetcode started
 | ------- |
 | [0001-two-sum](https://github.com/Jagratimishra02/leetcode-/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Jagratimishra02/leetcode-/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Jagratimishra02/leetcode-/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,4 +17,12 @@ leetcode started
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Jagratimishra02/leetcode-/tree/master/0066-plus-one) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Jagratimishra02/leetcode-/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Jagratimishra02/leetcode-/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
