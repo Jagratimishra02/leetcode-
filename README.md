@@ -10,12 +10,14 @@ leetcode started
 | [0004-median-of-two-sorted-arrays](https://github.com/Jagratimishra02/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/Jagratimishra02/leetcode-/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Jagratimishra02/leetcode-/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Jagratimishra02/leetcode-/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Jagratimishra02/leetcode-/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Jagratimishra02/leetcode-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jagratimishra02/leetcode-/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Jagratimishra02/leetcode-/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -29,6 +31,7 @@ leetcode started
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Jagratimishra02/leetcode-/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Jagratimishra02/leetcode-/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
