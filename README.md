@@ -8,6 +8,7 @@ leetcode started
 | ------- |
 | [0001-two-sum](https://github.com/Jagratimishra02/leetcode-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jagratimishra02/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Jagratimishra02/leetcode-/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Jagratimishra02/leetcode-/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Jagratimishra02/leetcode-/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Jagratimishra02/leetcode-/tree/master/0217-contains-duplicate) |
@@ -38,6 +39,7 @@ leetcode started
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jagratimishra02/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Jagratimishra02/leetcode-/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Jagratimishra02/leetcode-/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Jagratimishra02/leetcode-/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
