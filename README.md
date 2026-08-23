@@ -13,6 +13,7 @@ leetcode started
 | [0217-contains-duplicate](https://github.com/Jagratimishra02/leetcode-/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Jagratimishra02/leetcode-/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Jagratimishra02/leetcode-/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Jagratimishra02/leetcode-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Jagratimishra02/leetcode-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -38,8 +39,13 @@ leetcode started
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jagratimishra02/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0704-binary-search](https://github.com/Jagratimishra02/leetcode-/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Jagratimishra02/leetcode-/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jagratimishra02/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Jagratimishra02/leetcode-/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
