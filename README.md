@@ -29,6 +29,7 @@ leetcode started
 | [0066-plus-one](https://github.com/Jagratimishra02/leetcode-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Jagratimishra02/leetcode-/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/Jagratimishra02/leetcode-/tree/master/0441-arranging-coins) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Jagratimishra02/leetcode-/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Two Pointers
 |  |
 | ------- |
