@@ -16,6 +16,7 @@ leetcode started
 | [0540-single-element-in-a-sorted-array](https://github.com/Jagratimishra02/leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Jagratimishra02/leetcode-/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Jagratimishra02/leetcode-/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/Jagratimishra02/leetcode-/tree/master/0867-transpose-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Jagratimishra02/leetcode-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Jagratimishra02/leetcode-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
@@ -67,4 +68,12 @@ leetcode started
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Jagratimishra02/leetcode-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Jagratimishra02/leetcode-/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Jagratimishra02/leetcode-/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
