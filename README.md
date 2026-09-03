@@ -9,6 +9,7 @@ leetcode started
 | [0001-two-sum](https://github.com/Jagratimishra02/leetcode-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jagratimishra02/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Jagratimishra02/leetcode-/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Jagratimishra02/leetcode-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Jagratimishra02/leetcode-/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Jagratimishra02/leetcode-/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Jagratimishra02/leetcode-/tree/master/0217-contains-duplicate) |
@@ -27,6 +28,7 @@ leetcode started
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Jagratimishra02/leetcode-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Jagratimishra02/leetcode-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Jagratimishra02/leetcode-/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/Jagratimishra02/leetcode-/tree/master/0441-arranging-coins) |
@@ -71,6 +73,7 @@ leetcode started
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Jagratimishra02/leetcode-/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/Jagratimishra02/leetcode-/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
