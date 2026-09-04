@@ -12,6 +12,7 @@ leetcode started
 | [0048-rotate-image](https://github.com/Jagratimishra02/leetcode-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Jagratimishra02/leetcode-/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Jagratimishra02/leetcode-/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Jagratimishra02/leetcode-/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/Jagratimishra02/leetcode-/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Jagratimishra02/leetcode-/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jagratimishra02/leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -79,4 +80,8 @@ leetcode started
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Jagratimishra02/leetcode-/tree/master/0867-transpose-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Jagratimishra02/leetcode-/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
