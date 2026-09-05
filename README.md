@@ -15,6 +15,7 @@ leetcode started
 | [0118-pascals-triangle](https://github.com/Jagratimishra02/leetcode-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Jagratimishra02/leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/Jagratimishra02/leetcode-/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Jagratimishra02/leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Jagratimishra02/leetcode-/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jagratimishra02/leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Jagratimishra02/leetcode-/tree/master/0704-binary-search) |
@@ -51,6 +52,7 @@ leetcode started
 | [0004-median-of-two-sorted-arrays](https://github.com/Jagratimishra02/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Jagratimishra02/leetcode-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Jagratimishra02/leetcode-/tree/master/0069-sqrtx) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Jagratimishra02/leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0441-arranging-coins](https://github.com/Jagratimishra02/leetcode-/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jagratimishra02/leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Jagratimishra02/leetcode-/tree/master/0704-binary-search) |
@@ -60,6 +62,7 @@ leetcode started
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jagratimishra02/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Jagratimishra02/leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 ## Ternary Search
 |  |
 | ------- |
@@ -76,6 +79,7 @@ leetcode started
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Jagratimishra02/leetcode-/tree/master/0048-rotate-image) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Jagratimishra02/leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Jagratimishra02/leetcode-/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
