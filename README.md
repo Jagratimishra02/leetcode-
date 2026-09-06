@@ -10,6 +10,7 @@ leetcode started
 | [0004-median-of-two-sorted-arrays](https://github.com/Jagratimishra02/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Jagratimishra02/leetcode-/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Jagratimishra02/leetcode-/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Jagratimishra02/leetcode-/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Jagratimishra02/leetcode-/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Jagratimishra02/leetcode-/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Jagratimishra02/leetcode-/tree/master/0118-pascals-triangle) |
@@ -79,11 +80,13 @@ leetcode started
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Jagratimishra02/leetcode-/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Jagratimishra02/leetcode-/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jagratimishra02/leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Jagratimishra02/leetcode-/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Jagratimishra02/leetcode-/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Jagratimishra02/leetcode-/tree/master/0867-transpose-matrix) |
 ## Dynamic Programming
 |  |
