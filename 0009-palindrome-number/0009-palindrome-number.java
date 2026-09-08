@@ -1,5 +1,5 @@
 class Solution {
-    public boolean isPalindrome(int x) {
+    public boolean isPalindrome(int x) {     // time complexity = O(n)
          if(x < 0) return false;
         int rev = 0 ;       // reverse 
         int og = x;          // orignal
