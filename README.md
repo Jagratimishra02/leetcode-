@@ -34,6 +34,7 @@ leetcode started
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Jagratimishra02/leetcode-/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Jagratimishra02/leetcode-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Jagratimishra02/leetcode-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Jagratimishra02/leetcode-/tree/master/0069-sqrtx) |
