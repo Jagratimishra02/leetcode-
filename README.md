@@ -31,6 +31,7 @@ leetcode started
 | ------- |
 | [0001-two-sum](https://github.com/Jagratimishra02/leetcode-/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Jagratimishra02/leetcode-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Jagratimishra02/leetcode-/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -50,6 +51,7 @@ leetcode started
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Jagratimishra02/leetcode-/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Jagratimishra02/leetcode-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Jagratimishra02/leetcode-/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,4 +101,8 @@ leetcode started
 | ------- |
 | [0118-pascals-triangle](https://github.com/Jagratimishra02/leetcode-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Jagratimishra02/leetcode-/tree/master/0119-pascals-triangle-ii) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Jagratimishra02/leetcode-/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
