@@ -40,6 +40,7 @@ leetcode started
 | [0066-plus-one](https://github.com/Jagratimishra02/leetcode-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Jagratimishra02/leetcode-/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/Jagratimishra02/leetcode-/tree/master/0441-arranging-coins) |
+| [0509-fibonacci-number](https://github.com/Jagratimishra02/leetcode-/tree/master/0509-fibonacci-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Jagratimishra02/leetcode-/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Two Pointers
 |  |
@@ -101,8 +102,17 @@ leetcode started
 | ------- |
 | [0118-pascals-triangle](https://github.com/Jagratimishra02/leetcode-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Jagratimishra02/leetcode-/tree/master/0119-pascals-triangle-ii) |
+| [0509-fibonacci-number](https://github.com/Jagratimishra02/leetcode-/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Jagratimishra02/leetcode-/tree/master/0242-valid-anagram) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Jagratimishra02/leetcode-/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Jagratimishra02/leetcode-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
