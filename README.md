@@ -100,12 +100,14 @@ leetcode started
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Jagratimishra02/leetcode-/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Jagratimishra02/leetcode-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Jagratimishra02/leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/Jagratimishra02/leetcode-/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Jagratimishra02/leetcode-/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/Jagratimishra02/leetcode-/tree/master/0242-valid-anagram) |
 ## Recursion
 |  |
@@ -115,4 +117,12 @@ leetcode started
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Jagratimishra02/leetcode-/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Jagratimishra02/leetcode-/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Jagratimishra02/leetcode-/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
