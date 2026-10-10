@@ -10,6 +10,7 @@ leetcode started
 | [0004-median-of-two-sorted-arrays](https://github.com/Jagratimishra02/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Jagratimishra02/leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Jagratimishra02/leetcode-/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Jagratimishra02/leetcode-/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Jagratimishra02/leetcode-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Jagratimishra02/leetcode-/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Jagratimishra02/leetcode-/tree/master/0066-plus-one) |
@@ -34,6 +35,7 @@ leetcode started
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jagratimishra02/leetcode-/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Jagratimishra02/leetcode-/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/Jagratimishra02/leetcode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jagratimishra02/leetcode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jagratimishra02/leetcode-/tree/master/0268-missing-number) |
