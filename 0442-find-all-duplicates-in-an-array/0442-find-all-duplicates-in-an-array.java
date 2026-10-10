@@ -12,6 +12,7 @@ class Solution {
       for(i = 0 ; i<nums.length ; i++){
         if(nums[i] != i+1) ans.add(nums[i]);
       } 
+      Collections.sort(ans);
       return ans;
     }
     public  void swap(int i ,int j, int []nums){
