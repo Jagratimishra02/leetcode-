@@ -25,6 +25,7 @@ leetcode started
 | [0287-find-the-duplicate-number](https://github.com/Jagratimishra02/leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jagratimishra02/leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jagratimishra02/leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0493-reverse-pairs](https://github.com/Jagratimishra02/leetcode-/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jagratimishra02/leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/Jagratimishra02/leetcode-/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Jagratimishra02/leetcode-/tree/master/0704-binary-search) |
@@ -81,6 +82,7 @@ leetcode started
 | [0268-missing-number](https://github.com/Jagratimishra02/leetcode-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Jagratimishra02/leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/Jagratimishra02/leetcode-/tree/master/0441-arranging-coins) |
+| [0493-reverse-pairs](https://github.com/Jagratimishra02/leetcode-/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jagratimishra02/leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Jagratimishra02/leetcode-/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Jagratimishra02/leetcode-/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -90,6 +92,7 @@ leetcode started
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jagratimishra02/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jagratimishra02/leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/Jagratimishra02/leetcode-/tree/master/0493-reverse-pairs) |
 ## Ternary Search
 |  |
 | ------- |
@@ -157,4 +160,24 @@ leetcode started
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Jagratimishra02/leetcode-/tree/master/0287-find-the-duplicate-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Jagratimishra02/leetcode-/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Jagratimishra02/leetcode-/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Jagratimishra02/leetcode-/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Jagratimishra02/leetcode-/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Jagratimishra02/leetcode-/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
